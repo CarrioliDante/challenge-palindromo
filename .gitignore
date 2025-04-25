@@ -1,0 +1,14 @@
+# Node
+node_modules/
+npm-debug.log
+
+# Next.js
+frontend/.next/
+frontend/out/
+
+# Entornos
+.env
+.env.local
+
+# Datos sensibles del backend
+backend/history.json
