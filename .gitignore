@@ -8,7 +8,6 @@ frontend/out/
 
 # Entornos
 .env
-.env.local
 
 # Datos sensibles del backend
 backend/history.json
